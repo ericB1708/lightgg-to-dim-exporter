@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "DIM Exporter for Light.gg Destiny 2",
+  "version": "1.0",
+  "description": "Creates DIM search strings from selected perks. Destiny 2",
+  "content_scripts": [
+    {
+      "matches": ["*://*.light.gg/*"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ]
+}

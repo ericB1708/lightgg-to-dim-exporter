@@ -1,0 +1,10 @@
+.dim-export-btn {
+  background-color: #ffaa00;
+  color: #000;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 3px;
+}
+.dim-export-btn:hover {
+  background-color: #ffcc00;
+}
