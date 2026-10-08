@@ -39,6 +39,10 @@ Since this plugin is not yet published in the Web Store, you can install it loca
 - **MutationObserver API:** Dynamically monitors the DOM to ensure the button is inserted correctly even with asynchronously loaded content (Vue.js).
 - **Clipboard API:** Secure and modern copying of strings to the user's clipboard.
 
+## 👏 Credits
+
+- The "Hover Glow Effect" CSS for the copy button was created by [Kocsten on CodePen](https://codepen.io/kocsten/pen/rggjXp) (MIT License).
+
 ## ⚠️ Disclaimer
 
 This project is an unofficial fan extension and is not officially affiliated with Bungie, light.gg, or the Destiny Item Manager (DIM). Destiny 2 and all related trademarks are the property of Bungie.
